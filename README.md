@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Joe, and I'm a data analyst with experience across the data spectrum from business intelligence, data analysis, data engineering, and data science. 
+
+
+- 🌱 I’m currently learning how to deepen my data skills outside of a consulting context to build depth to my breadth.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/willsjoseph/)
+- ⚡ Fun fact: I spent my 2019 sabbatical taking an Italian Immersion course in Florence -- Ciao!
 <!--
 **jwill1277/jwill1277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
